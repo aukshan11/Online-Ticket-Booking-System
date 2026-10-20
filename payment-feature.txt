@@ -1,0 +1,12 @@
+PAYMENT MODULE - VERSION 2.1
+
+Feature: Online Payment Processing
+
+1. Users can pay for their ticket bookings online.
+2. The system sends payment details to the payment gateway.
+3. The gateway returns a success or failure status.
+4. On successful payment, the system confirms the booking.
+5. On failed payment, the system displays an error message.
+
+Purpose:
+This feature improves the Online Ticket Booking System by documenting the payment workflow.
