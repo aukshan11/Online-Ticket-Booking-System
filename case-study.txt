@@ -1,0 +1,31 @@
+ONLINE TICKET BOOKING SYSTEM
+Version 1.0
+
+1. Project Objective
+   The Online Ticket Booking System allows users to search and book tickets for movies and view theatre schedules.
+
+2. Functional Requirements
+
+- User Registration and Login
+- Search Available Movies
+- View Theatre Schedules
+- Check Seat Availability
+- Select and Book Seats
+- Online Payment
+- Booking Confirmation
+
+3. Main Modules
+
+- User Management
+- Movie and Theatre Management
+- Seat Booking
+- Payment Processing
+- Booking Management
+
+4. Users
+
+- User
+- Administrator
+
+5. Initial Scope
+   This version supports basic ticket searching, seat selection, booking, and payment functionality.
