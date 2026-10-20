@@ -28,6 +28,7 @@ Version 1.0
 - Administrator
 
 5. Initial Scope
+   This version supports ticket booking, online payment, and ticket cancellation functionality
    This version supports ticket booking, online payment, and e-ticket downloads
 6. Additional Requirements - Version 2.0
 
