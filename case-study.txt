@@ -28,7 +28,7 @@ Version 1.0
 - Administrator
 
 5. Initial Scope
-   This version supports basic ticket searching, seat selection, booking, and payment functionality.
+   This version supports ticket booking, online payment, and ticket cancellation functionality
 6. Additional Requirements - Version 2.0
 
 - Cancel booked tickets.
